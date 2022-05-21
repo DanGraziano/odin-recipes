@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(190, 190, 190);
+}
+
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+
+}
+
+.header {
+    font-weight: bold;
+    color: rgb(20, 56, 10);
+
+}
+
+.bullet {
+    text-align: center;
+
+}
